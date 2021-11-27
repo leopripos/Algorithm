@@ -1,3 +1,3 @@
-module github.com/leopripos/cryptography/go-aes-step-by-step
+module github.com/leopripos/algorithm/go-aes-step-by-step
 
 go 1.17
